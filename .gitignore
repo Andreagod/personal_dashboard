@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Database
+*.sqlite3
+var/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Distribution
+lib/
+bin/
+include/
+share/
+
+# OS
+.DS_Store
+*.log
