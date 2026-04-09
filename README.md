@@ -35,7 +35,7 @@ Create a virtual environment, install dependencies, and run the user creation sc
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python scripts/create_user.py
+python scripts/create_user.py <username> <password>
 ```
 
 Follow the prompts to set your username and password, then deactivate the venv:
